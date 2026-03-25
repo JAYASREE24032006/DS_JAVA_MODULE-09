@@ -8,7 +8,6 @@ To simulate the functioning of a ticket counter that operates on a First-In-Firs
 4. DISPLAY Operation.
 5. Main Simulation.
 6. End the program. 
-
 ## Program:
 ```
 Program to functioning of a ticket counter that operates on a First-In-First-Out (FIFO)
